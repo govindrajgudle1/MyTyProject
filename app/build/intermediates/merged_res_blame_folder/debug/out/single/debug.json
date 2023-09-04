@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_show_bikes_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/show_bikes_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_car_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/car_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_blue_rounded_shape.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/blue_rounded_shape.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_excavator.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/excavator.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_mercedes.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/mercedes.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.androidmastermech.app-pngs-8:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_filter_icon.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/filter_icon.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bmw_m5_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bmw_m5_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_gate_icon.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/gate_icon.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_audi_user_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/audi_user_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_dumptruck.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/dumptruck.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bmw_car_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bmw_car_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bulldozer.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bulldozer.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_seat_icon.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/seat_icon.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/font_calibri.ttf.flat",
+        "source": "com.example.androidmastermech.app-main-15:/font/calibri.ttf"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_wedding_car_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/wedding_car_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_activity_login.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bag_icon.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bag_icon.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ford_mustang.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ford_mustang.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_mercedes_user_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/mercedes_user_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_audi.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/audi.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_gray_rounded_shape.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/gray_rounded_shape.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_search_gray_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_search_gray_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/menu_menu_main3.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/menu/menu_main3.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_renatalmanagemenr.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/renatalmanagemenr.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bmw_user_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bmw_user_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_control_point_black_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_control_point_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_star_yellow_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_star_yellow_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_apps_black_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_apps_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_timeline_gray_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_timeline_gray_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_backhoeloader.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/backhoeloader.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_light_orange_rounded_shape.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/light_orange_rounded_shape.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_user_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/user_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/xml_backup_rules.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ford_user_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ford_user_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_boats_img.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/boats_img.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_activity_registration.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/color_white.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/color/white.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_machineselection.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/machineselection.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_bookmark.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/bookmark.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/color_purple_500.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/color/purple_500.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/layout_operatordata.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/layout/operatordata.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_bookmark_border_black_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_bookmark_border_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_crane.png.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/crane.png"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidmastermech.app-main-15:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-13:/drawable_ic_more_horiz_gray_24dp.xml.flat",
+        "source": "com.example.androidmastermech.app-main-15:/drawable/ic_more_horiz_gray_24dp.xml"
+    }
+]

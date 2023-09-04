@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidMasterMech</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="explore">Explore</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="logout_text">logOut</string>
+    <string name="logout_textbutton">logout</string>
+    <string name="HindiName">WE WELCOME YOU </string>
+    <string name="name">Myname</string>
+    <string name="horizontal">name</string>
+</resources>
