@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androidmastermech"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.androidmastermech.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.androidmastermech.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:5:5-88:19
+18        android:allowBackup="true"
+18-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+28-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:13:9-67
+29        <activity
+29-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:15:9-21:20
+30            android:name="com.example.androidmastermech.Mydemopage"
+30-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:16:13-39
+31            android:exported="false" >
+31-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:17:13-37
+32            <meta-data
+32-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+33                android:name="android.app.lib_name"
+33-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+34                android:value="" />
+34-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+35        </activity>
+36        <!-- </activity> -->
+37        <!-- &lt;!&ndash;        <activity&ndash;&gt; -->
+38        <!-- &lt;!&ndash;            android:name=".machineDEMO"&ndash;&gt; -->
+39        <!-- &lt;!&ndash;            android:exported="false"&ndash;&gt; -->
+40        <!-- &lt;!&ndash;            android:label="@string/title_activity_machine_demo"&ndash;&gt; -->
+41        <!-- &lt;!&ndash;            android:theme="@style/NoActionBar" >&ndash;&gt; -->
+42        <!-- <meta-data -->
+43        <!-- android:name="android.app.lib_name" -->
+44        <!-- android:value="" /> -->
+45        <activity
+45-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:31:9-37:20
+46            android:name="com.example.androidmastermech.rentaldetails"
+46-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:32:13-42
+47            android:exported="false" >
+47-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:33:13-37
+48            <meta-data
+48-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+49                android:name="android.app.lib_name"
+49-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+50                android:value="" />
+50-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+51        </activity>
+52        <activity
+52-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:38:9-44:20
+53            android:name="com.example.androidmastermech.forgotpass"
+53-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:39:13-39
+54            android:exported="false" >
+54-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:40:13-37
+55            <meta-data
+55-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+56                android:name="android.app.lib_name"
+56-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+57                android:value="" />
+57-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+58        </activity>
+59        <activity
+59-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:45:9-51:20
+60            android:name="com.example.androidmastermech.newoperator"
+60-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:46:13-40
+61            android:exported="false" >
+61-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:47:13-37
+62            <meta-data
+62-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+63                android:name="android.app.lib_name"
+63-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+64                android:value="" />
+64-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+65        </activity> <!-- <activity -->
+66        <!-- android:name=".operatordata" -->
+67        <!-- android:exported="false" > -->
+68        <!-- <meta-data -->
+69        <!-- android:name="android.app.lib_name" -->
+70        <!-- android:value="" /> -->
+71        <!-- </activity> -->
+72        <activity
+72-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:58:9-64:20
+73            android:name="com.example.androidmastermech.machineselection"
+73-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:59:13-45
+74            android:exported="false" >
+74-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:60:13-37
+75            <meta-data
+75-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+76                android:name="android.app.lib_name"
+76-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+77                android:value="" />
+77-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+78        </activity>
+79        <activity
+79-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:65:9-71:20
+80            android:name="com.example.androidmastermech.registration"
+80-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:66:13-41
+81            android:exported="false" >
+81-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:67:13-37
+82            <meta-data
+82-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+83                android:name="android.app.lib_name"
+83-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+84                android:value="" />
+84-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+85        </activity>
+86        <activity
+86-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:72:9-80:20
+87            android:name="com.example.androidmastermech.Login"
+87-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:73:13-34
+88            android:exported="true" >
+88-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:74:13-36
+89            <intent-filter>
+89-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:75:13-79:29
+90                <action android:name="android.intent.action.MAIN" />
+90-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:76:17-69
+90-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:76:25-66
+91
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:78:17-77
+92-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:78:27-74
+93            </intent-filter>
+94        </activity>
+95        <activity
+95-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:81:9-87:20
+96            android:name="com.example.androidmastermech.MainActivity"
+96-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:82:13-41
+97            android:exported="true" >
+97-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:83:13-36
+98            <meta-data
+98-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:18:13-20:36
+99                android:name="android.app.lib_name"
+99-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:19:17-52
+100                android:value="" />
+100-->C:\Users\DELL\AndroidStudioProjects\AndroidMasterMech\app\src\main\AndroidManifest.xml:20:17-33
+101        </activity>
+102
+103        <provider
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+104            android:name="androidx.startup.InitializationProvider"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+105            android:authorities="com.example.androidmastermech.androidx-startup"
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+106            android:exported="false" >
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+107            <meta-data
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+108                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+109                android:value="androidx.startup" />
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+110            <meta-data
+110-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+111                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+111-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+112                android:value="androidx.startup" />
+112-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+113        </provider>
+114    </application>
+115
+116</manifest>

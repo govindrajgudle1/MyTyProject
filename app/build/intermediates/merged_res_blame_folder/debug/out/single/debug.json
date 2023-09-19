@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_analysis_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_analysis_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_status_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_status_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_mercedes_user_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\mercedes_user_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_operator_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_operator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_back_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\drawable\\ic_back_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_status.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_status.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_status_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_status_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_analysis_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_analysis_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_crane.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\crane.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-anydpi-v24_ic_back_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-pngs-25:\\drawable-anydpi-v24\\ic_back_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-anydpi-v24_ic_operator_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-pngs-25:\\drawable-anydpi-v24\\ic_operator_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_status.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_status.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_operator_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_operator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_apps_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_apps_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_analysis_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_analysis_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_backhoeloader.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\backhoeloader.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_bookmark_border_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_bookmark_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_mercedes.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\mercedes.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_mydemopage.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_mydemopage.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_analysis.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_machineselection.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_machineselection.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_status.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_status.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_filter_icon.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\filter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_status_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_status_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_analysis_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_analysis_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_status.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_status.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_rentaldetails.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_rentaldetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_newoperator.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\newoperator.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_operator_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_operator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_timeline_gray_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_timeline_gray_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_excavator.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\excavator.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_analysis.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_bag_icon.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\bag_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_user_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\user_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_back.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\font_calibri.ttf.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\font\\calibri.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_analysis.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_analysis_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_analysis_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_arrow_back.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_wedding_car_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\wedding_car_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_status_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_status_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_analysis.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_status.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_status.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_blue_rounded_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\blue_rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_analysis_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_analysis_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-anydpi-v24_ic_status_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-pngs-25:\\drawable-anydpi-v24\\ic_status_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_show_bikes_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\show_bikes_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_light_orange_rounded_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\light_orange_rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\color_purple_500.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\color\\purple_500.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_more_horiz_gray_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_more_horiz_gray_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_status_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_status_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_analysis_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_analysis_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_search_gray_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_search_gray_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_seat_icon.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\seat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_status_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_status_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_star_yellow_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_star_yellow_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_gradient_btn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\gradient_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-v24_bg2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\drawable-v24\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_car_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\car_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_remove_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_analysis.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_control_point_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_control_point_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_status_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_status_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_operator_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\drawable\\ic_operator_foreground.xml"
+    },
+    {
+        "merged": "com.example.androidmastermech.app-merged_res-30:/layout_activity_login.xml.flat",
+        "source": "com.example.androidmastermech.app-main-32:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_bulldozer.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\bulldozer.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_dumptruck.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\dumptruck.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable-anydpi-v24_ic_analysis_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-pngs-25:\\drawable-anydpi-v24\\ic_analysis_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_gray_rounded_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\gray_rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_analysis_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_analysis_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\color_white.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\color\\white.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_analysis.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_analysis.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_operator_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_operator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_analysis_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_analysis_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_gate_icon.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\gate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_profile_account_box_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_profile_account_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_activity_forgotpass.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\activity_forgotpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_operator_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_operator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-hdpi_ic_status_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-hdpi\\ic_status_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_status_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_status_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\menu_menu_main3.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\menu\\menu_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_analysis_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_analysis_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_logincorner.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\logincorner.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ford_mustang.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ford_mustang.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-mdpi_ic_status_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-mdpi\\ic_status_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ic_add_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ic_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xhdpi_ic_analysis_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xhdpi\\ic_analysis_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\layout_rentaldetails.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\layout\\rentaldetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_back_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_back_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxxhdpi_ic_status_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxxhdpi\\ic_status_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\drawable_ford_user_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-main-32:\\drawable\\ford_user_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-merged_res-30:\\mipmap-anydpi-v26_ic_status.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.example.androidmastermech.app-debug-31:\\mipmap-anydpi-v26\\ic_status.xml"
+    }
+]
